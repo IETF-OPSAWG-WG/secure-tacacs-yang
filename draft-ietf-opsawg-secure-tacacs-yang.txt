@@ -6,7 +6,7 @@ Operations and Management Area Working Group           M. Boucadair, Ed.
 Internet-Draft                                                    Orange
 Obsoletes: 9105 (if approved)                                      B. Wu
 Intended status: Standards Track                     Huawei Technologies
-Expires: 8 January 2026                                      7 July 2025
+Expires: 19 June 2026                                   16 December 2025
 
 
  A YANG Data Model for Terminal Access Controller Access-Control System
@@ -39,7 +39,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 8 January 2026.
+   This Internet-Draft will expire on 19 June 2026.
 
 Copyright Notice
 
@@ -1304,9 +1304,9 @@ Table of Contents
               Dahm, T., Heasley, J., dcmgash@cisco.com, and A. Ota,
               "Terminal Access Controller Access-Control System Plus
               over TLS 1.3 (TACACS+ over TLS)", Work in Progress,
-              Internet-Draft, draft-ietf-opsawg-tacacs-tls13-23, 21 June
+              Internet-Draft, draft-ietf-opsawg-tacacs-tls13-24, 9 July
               2025, <https://datatracker.ietf.org/doc/html/draft-ietf-
-              opsawg-tacacs-tls13-23>.
+              opsawg-tacacs-tls13-24>.
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
