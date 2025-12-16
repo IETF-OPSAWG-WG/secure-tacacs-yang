@@ -51,7 +51,7 @@ informative:
 
 #  Introduction
 
-The System Management data model {{!RFC7317}} defines separate functionality to support local and Remote Authentication Dial In User Service (RADIUS) authentication:
+The System Management data model {{!RFC7317}}/{{Section 2.14 of !RFC2360@BCP22}} defines separate functionality to support local and Remote Authentication Dial In User Service (RADIUS) authentication:
 
    User Authentication Model:
    :  Defines a list of user names with
